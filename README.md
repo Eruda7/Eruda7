@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there! I'm <span>Eldar</span> 👋</h1>
+<h1 align="center">Hey there! I'm <span>Eldar</span> Front-End dev 👋</h1>
 
 
 
