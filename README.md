@@ -14,12 +14,15 @@
 </p>
 
 <div>
+  
   <!-- Вклад -->
 ![Eldar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eruda7&show_icons=true&theme=radical)
+  
 
 <!-- Топ-языки -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eruda7&layout=compact&langs_count=8&theme=radical)
 </div>
+
 
 
 
