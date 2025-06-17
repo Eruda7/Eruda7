@@ -19,3 +19,16 @@
 
 <!-- Топ-языки -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eruda7&layout=compact&langs_count=8&theme=radical)
+
+
+<p>
+  <a href="https://t.me/eldar"><img
+    src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+    alt="Telegram"/></a>
+  <a href="mailto:eldar@example.com"><img
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/eldar"><img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"/></a>
+</p>
