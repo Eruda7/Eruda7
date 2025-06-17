@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
-<div>
+<div style="display: flex;">
   
   <!-- Вклад -->
 ![Eldar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eruda7&show_icons=true&theme=radical)
