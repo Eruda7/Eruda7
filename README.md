@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! I'm <span>Eldar</span> 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eruda7&show_icons=true&theme=tokyonight" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eruda7&layout=compact&theme=tokyonight" />
 </p>
 
