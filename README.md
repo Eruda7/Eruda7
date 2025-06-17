@@ -5,7 +5,7 @@
 
 ---
 
-### 🧰 Tech Stack
+
 <p align="left">
   <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
@@ -30,7 +30,6 @@
 
 ---
 
-### 🌐 Connect with me
 <p align="center"></p>
 
 <p align="center">
